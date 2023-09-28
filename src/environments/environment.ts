@@ -1,4 +1,4 @@
 export const environment = {
   production: true,
-  apiBaseUrl: 'http://localhost:8080'
+  apiBaseUrl: 'https://book-store-managment-back-production.up.railway.app/'
 };
